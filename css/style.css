@@ -21,7 +21,7 @@ time, mark, audio, video {
 
 
 body {
-	height: 3000px;
+	
 }
 
 ul {
@@ -69,7 +69,8 @@ a {
 }
 
 #nav-container {
-	background: white;
+	background-color: rgba(255,255,255,0.8);
+	top: 0;
 	height: 70px;
 	width: 100%;
 	position: fixed;
@@ -98,6 +99,10 @@ a {
 
 .parallax-container {
   height: 370px;
+}
+
+#first-pic {
+	margin-top: 70px;
 }
 
 
