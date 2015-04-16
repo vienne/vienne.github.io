@@ -19,11 +19,6 @@ time, mark, audio, video {
     background:transparent;
 }
 
-
-body {
-	
-}
-
 ul {
 	margin-top: 30px;
 	margin-right: 20px;
@@ -50,6 +45,11 @@ h2 {
 	text-align: center;
 	font-size: 20px;
 	margin-top: 30px;
+	padding-top: 45px;
+}
+
+h4 {
+	margin-top: 0;
 }
 
 p {
@@ -62,6 +62,7 @@ p {
 
 a {
 	color: #737373;
+	margin-top: 5px;
 }
 
 .content {
@@ -75,6 +76,10 @@ a {
 	width: 100%;
 	position: fixed;
 	z-index: 1;
+}
+
+.content {
+	margin-top: 30px;
 }
 
 #piano {
@@ -96,6 +101,9 @@ a {
 	margin-top: 60px;
 }
 
+#mordor1 {
+	height: 500px;
+}
 
 .parallax-container {
   height: 370px;
@@ -105,5 +113,45 @@ a {
 	margin-top: 70px;
 }
 
+.row {
+	margin-top: 40px;
+	margin-left: 100px;
+	margin-right: auto;
+	display: inline-block;
+}
 
+#resume-button {
+	display: block;
+	width: 250px;
+	background-color: black;
+	color: white;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 40px;
+}
+
+#fa-icons {
+	display: block;
+	margin-left: 44.500px%;
+}
+#linkedin {
+	padding-left: 20px;
+	padding-right: 20px;
+}
+#github {
+	padding-left: 20px;
+	padding-right: 20px;
+}
+#email {
+	margin-top: 15px;
+}
+#fa-icons:before {
+	width: 100%;
+	margin-left: auto;
+	margin-right: auto;
+}
+.reverse {
+	direction: rtl;
+  unicode-bidi: bidi-override;
+}
         
