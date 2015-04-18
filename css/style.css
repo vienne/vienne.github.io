@@ -19,6 +19,8 @@ time, mark, audio, video {
     background:transparent;
 }
 
+
+
 ul {
 	margin-top: 30px;
 	margin-right: 20px;
@@ -65,6 +67,8 @@ a {
 	margin-top: 5px;
 }
 
+
+
 .content {
 	height: 400px;
 }
@@ -82,13 +86,20 @@ a {
 	margin-top: 30px;
 }
 
+.audiojs {
+	display: block;
+	margin-top: 60px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
 #piano {
-	height: 1000px;
+	height: 1400px;
 	width: auto;
 }
 
 #work {
-	height: 1000px;
+	height: 800px;
 	width: auto;
 }
 
@@ -103,6 +114,31 @@ a {
 
 #mordor1 {
 	height: 500px;
+}
+
+.websites {
+	display: block;
+	margin-left: 16%;
+	margin-top: 0px;
+}
+#ski {
+	height: 250px;
+	margin-top: 10px;
+	padding: 8px;
+
+}
+
+#violate {
+	height: 250px;
+	margin-top: 10px;
+	padding: 8px;
+
+}
+
+.modal-click: {
+	height: 250px;
+	margin-top: 10px;
+	padding: 8px;
 }
 
 .parallax-container {
@@ -120,19 +156,10 @@ a {
 	display: inline-block;
 }
 
-#resume-button {
-	display: block;
-	width: 250px;
-	background-color: black;
-	color: white;
-	margin-left: auto;
-	margin-right: auto;
-	margin-top: 40px;
-}
 
 #fa-icons {
 	display: block;
-	margin-left: 44.500px%;
+	margin-left: 41.500%;
 }
 #linkedin {
 	padding-left: 20px;
@@ -142,14 +169,15 @@ a {
 	padding-left: 20px;
 	padding-right: 20px;
 }
+#resume {
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
 #email {
-	margin-top: 15px;
+	margin-top: 10px;
 }
-#fa-icons:before {
-	width: 100%;
-	margin-left: auto;
-	margin-right: auto;
-}
+
 .reverse {
 	direction: rtl;
   unicode-bidi: bidi-override;
