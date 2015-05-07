@@ -178,6 +178,15 @@ a {
 	padding-right: 20px;
 }
 
+#resume-desc {
+	display: none;
+}
+
+#resume-div:hover #resume-desc {
+	display: block;
+}
+
+
 #email {
 	margin-top: 10px;
 }
