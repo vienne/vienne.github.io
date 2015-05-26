@@ -92,10 +92,12 @@ a {
 
 .audiojs {
 	display: block;
-	margin-top: 60px;
+	margin-top: 30px;
 	margin-left: auto;
 	margin-right: auto;
 }
+
+
 
 #piano {
 	height: 1300px;
@@ -117,11 +119,11 @@ a {
 }
 
 #pointe {
-	height: 1200px;
+	height: 1000px;
 }
 
 #mordor1 {
-	height: 900px;
+	height: 700px;
 }
 
 #vienne {
